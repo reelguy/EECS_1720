@@ -1,4 +1,0 @@
-log
-
-Jan 18th
-I set up my EECS_1720 repository and made a log file
